@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1758268435211",
+    "email": "biyashresth1826@gmail.com",
+    "password": "test",
+    "name": "adas",
+    "createdAt": "2025-09-19T07:53:55.211Z"
+  },
+  {
+    "id": "1758270021621",
+    "email": "test@gmail.com",
+    "password": "password",
+    "name": "Anil",
+    "createdAt": "2025-09-19T08:20:21.621Z"
+  }
+]
