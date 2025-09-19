@@ -1,0 +1,11 @@
+[
+  {
+    "id": "1758270759869",
+    "businessId": "1758270704081",
+    "bankName": "sbi bank",
+    "accountNumber": "012457811251",
+    "accountType": "savings",
+    "balance": 5000,
+    "createdAt": "2025-09-19T08:32:39.869Z"
+  }
+]

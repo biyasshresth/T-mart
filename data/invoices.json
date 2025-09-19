@@ -1,0 +1,24 @@
+[
+  {
+    "id": "1758270875309",
+    "businessId": "1758270704081",
+    "customerId": "1758270839786",
+    "invoiceNumber": "151513433",
+    "date": "2025-09-18",
+    "dueDate": "2025-10-19",
+    "items": [
+      {
+        "description": "noodles",
+        "quantity": 4,
+        "rate": 12.12,
+        "amount": 48.48,
+        "id": "1758270875309-0"
+      }
+    ],
+    "subtotal": 48.48,
+    "tax": 6.3024,
+    "total": 54.782399999999996,
+    "status": "draft",
+    "createdAt": "2025-09-19T08:34:35.309Z"
+  }
+]

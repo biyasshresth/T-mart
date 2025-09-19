@@ -1,0 +1,11 @@
+[
+  {
+    "id": "1758270928573",
+    "businessId": "1758270704081",
+    "accountName": "wasdsc",
+    "creditLimit": 1000,
+    "currentBalance": 1000,
+    "interestRate": 13,
+    "createdAt": "2025-09-19T08:35:28.573Z"
+  }
+]
